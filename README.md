@@ -27,7 +27,7 @@ The Unlicense
 
 ## Deployed Application
 
-View deployed application [here](https://lamcnguyen89.github.io/Employee-Directory--React/)
+View deployed application [here](https://lamcnguyen89.github.io/User-Directory--React/)
 
 ![Screenshot](./public/Screenshot.PNG)
 
